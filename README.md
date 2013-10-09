@@ -8,21 +8,8 @@ State of Kiva Data as of October 8, 2013
 
 profile images
 --------------
-* Lender images: 460029 
-* Borrower images: 45000
-
-kiva database
--------------
-* kiva_lender - 1209877 rows, Create_time: 2013-07-01 12:03:10
-* kiva_lending_details - 0 rows, Create_time: 2013-07-01 12:03:10
-* kiva_loan - 488510 rows, Create_time: 2013-07-01 12:03:10
-* kiva_loan_borrower - 972134 rows, Create_time: 2013-07-01 12:03:10
-* kiva_loan_description - 753527 rows, Create_time: 2013-07-01 12:03:10
-* kiva_loan_local_payment - 7165817 rows, Create_time: 2013-07-01 12:03:11
-* kiva_loan_payment - 3587899 rows, Create_time: 2013-07-01 12:03:10
-* kiva_loan_scheduled_payment - 7165817 rows, Create_time: 2013-07-01 12:03:11
-* kiva_loans_lenders - 6667198 rows, Create_time: 2013-07-01 15:38:17
-* loan_ids - 412784 rows, Create_time: 2013-08-08 22:07:38
+* Lender images: 460167
+* Borrower images: 59875
 
 kiva2 database
 --------------
